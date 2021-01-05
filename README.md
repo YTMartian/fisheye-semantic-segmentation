@@ -5,7 +5,7 @@ BEST WEIGHTS DOWNLOAD FROM: [https://pan.baidu.com/s/15_BZVLaaIhyv2DA9BLvDPQ](ht
 
 AND MOVE IT TO `model/`
 
-REQUIREMENT:
+#### REQUIREMENT:
 
 python>=3.5
 
@@ -13,6 +13,12 @@ pytorch>=1.4
 
 torchvision>=0.6
 
-USAGE:
+opencv>=4.0
+
+#### USAGE:
 
 RUN `python predict.py [video path]`
+
+#### RESULT
+
+![result.gif](result.gif)
