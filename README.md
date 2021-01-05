@@ -19,6 +19,6 @@ opencv>=4.0
 
 RUN `python predict.py [video path]`
 
-#### RESULT
+#### RESULT(10 classes)
 
 ![result.gif](result.gif)
